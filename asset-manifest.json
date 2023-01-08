@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "https://rudibrudi1997.github.io/csb-iwqgm6/static/css/main.e1abc16d.chunk.css",
-    "main.js": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/main.2fbfc8ff.chunk.js",
-    "main.js.map": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/main.2fbfc8ff.chunk.js.map",
+    "main.js": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/main.a3adf396.chunk.js",
+    "main.js.map": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/main.a3adf396.chunk.js.map",
     "runtime-main.js": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/runtime-main.901413ac.js",
     "runtime-main.js.map": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/runtime-main.901413ac.js.map",
-    "static/js/2.dcf25234.chunk.js": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/2.dcf25234.chunk.js",
-    "static/js/2.dcf25234.chunk.js.map": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/2.dcf25234.chunk.js.map",
+    "static/js/2.0cebea0d.chunk.js": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/2.0cebea0d.chunk.js",
+    "static/js/2.0cebea0d.chunk.js.map": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/2.0cebea0d.chunk.js.map",
     "index.html": "https://rudibrudi1997.github.io/csb-iwqgm6/index.html",
     "static/css/main.e1abc16d.chunk.css.map": "https://rudibrudi1997.github.io/csb-iwqgm6/static/css/main.e1abc16d.chunk.css.map",
-    "static/js/2.dcf25234.chunk.js.LICENSE.txt": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/2.dcf25234.chunk.js.LICENSE.txt",
-    "static/media/Bachelorwork.fae839e7.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/Bachelorwork.fae839e7.png",
-    "static/media/Games_of_PM.899af36a.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/Games_of_PM.899af36a.png",
-    "static/media/Jobwatch_concepts.4a41e8e0.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/Jobwatch_concepts.4a41e8e0.png",
+    "static/js/2.0cebea0d.chunk.js.LICENSE.txt": "https://rudibrudi1997.github.io/csb-iwqgm6/static/js/2.0cebea0d.chunk.js.LICENSE.txt",
+    "static/media/Bachelorwork.137c106a.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/Bachelorwork.137c106a.png",
+    "static/media/Games_of_PM.c8eb656d.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/Games_of_PM.c8eb656d.png",
+    "static/media/Jobwatch_concepts.18bfa5bc.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/Jobwatch_concepts.18bfa5bc.png",
     "static/media/lance-asper-unsplash.ff4e4a36.jpg": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/lance-asper-unsplash.ff4e4a36.jpg",
-    "static/media/movisens_RGB_Web.5454b32e.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/movisens_RGB_Web.5454b32e.png",
-    "static/media/pexels-kevin-ku-577585.1b336ad8.jpg": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/pexels-kevin-ku-577585.1b336ad8.jpg",
-    "static/media/user_2.ed54da44.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/user_2.ed54da44.png"
+    "static/media/movisens_RGB_Web.5b49b5c2.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/movisens_RGB_Web.5b49b5c2.png",
+    "static/media/pexels-kevin-ku-577585.92f12f07.jpg": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/pexels-kevin-ku-577585.92f12f07.jpg",
+    "static/media/user_2.6c63bee9.png": "https://rudibrudi1997.github.io/csb-iwqgm6/static/media/user_2.6c63bee9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.901413ac.js",
-    "static/js/2.dcf25234.chunk.js",
+    "static/js/2.0cebea0d.chunk.js",
     "static/css/main.e1abc16d.chunk.css",
-    "static/js/main.2fbfc8ff.chunk.js"
+    "static/js/main.a3adf396.chunk.js"
   ]
 }
